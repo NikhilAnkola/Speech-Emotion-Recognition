@@ -81,6 +81,16 @@ Full training curves, per-class precision/recall/F1, and confusion matrices are 
 
 ---
 
+## 🖼️ Demo
+
+The Streamlit UI in action — upload a `.wav` clip and get an instant emotion prediction with a confidence breakdown and spectrogram view.
+
+| Upload screen | Prediction + confidence chart | Log-mel spectrogram |
+|---|---|---|
+| ![Upload screen](screenshots/ui-upload.png) | ![Prediction result](screenshots/ui-prediction.png) | ![Spectrogram view](screenshots/ui-spectrogram.png) |
+
+---
+
 ## 🚀 Getting Started
 
 ### Option 1: Run the training pipeline (Google Colab)
