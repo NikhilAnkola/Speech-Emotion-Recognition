@@ -85,9 +85,14 @@ Full training curves, per-class precision/recall/F1, and confusion matrices are 
 
 The Streamlit UI in action — upload a `.wav` clip and get an instant emotion prediction with a confidence breakdown and spectrogram view.
 
-| Upload screen | Prediction + confidence chart | Log-mel spectrogram |
-|---|---|---|
-| ![Upload screen](screenshots/ui-upload.png) | ![Prediction result](screenshots/ui-prediction.png) | ![Spectrogram view](screenshots/ui-spectrogram.png) |
+Upload screen 
+![Upload screen](screenshots/ui-upload.png)
+
+Prediction + confidence chart
+![Prediction result](screenshots/ui-prediction.png)
+
+Log-mel spectrogram
+![Spectrogram view](screenshots/ui-spectrogram.png)
 
 ---
 
